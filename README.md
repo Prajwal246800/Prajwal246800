@@ -21,6 +21,5 @@ I'm comfortable working with a variety of technologies and tools. Here are some 
 - 📢 [Reddit](https://www.reddit.com/u/prajwal246800/s/nwUtXHs52Y)
 - 📢 [LinkedIn](https://www.linkedin.com/in/prajwal-prajwal-877187285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 📢 [Pinterest](https://pin.it/64z5UXy)
-- 📢 [Discord Username](prajwal24680)
  
 Thanks for visiting my GitHub profile! 😊
