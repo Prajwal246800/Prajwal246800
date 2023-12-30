@@ -23,5 +23,3 @@ I'm comfortable working with a variety of technologies and tools. Here are some 
 - 📢 [Pinterest](https://pin.it/64z5UXy)
  
 Thanks for visiting my GitHub profile! 😊
-
-[![](https://visitcount.itsvg.in/api?id=prajwal246800&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
