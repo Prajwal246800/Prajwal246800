@@ -5,7 +5,7 @@ Welcome to my GitHub profile! Here.
 
 ## 🧐 About Me
 - 💼 [Student At PES University E-City Bangalore]
-- 🌱 I'm currently learning [DSA,Rust,NodeJS,Mongodb,Git]
+- 🌱 I'm currently learning [DSA,Rust,NodeJS,Mongodb,Git,JAVA]
 - 📫 How to reach me: [ankithgowda24680@gmail.com]
 
 ## 🔧 Technologies & Tools
