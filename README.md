@@ -14,8 +14,11 @@ I'm comfortable working with a variety of technologies and tools. Here are some 
 - **Web Technologies:** [HTML,CSS,JavaScript,ReactJS]
 - **Databases:** [Oracle]
 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prajwal246800&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,prs)
 
-[![Ankith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajwal246800&hide=prs,issues&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal246800&layout=compact&theme=tokyonight)
+
 
 ## 🌍 Find Me Online
 - 📢 [Twitter](https://twitter.com/prajwalbs24680)
