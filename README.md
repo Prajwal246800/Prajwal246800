@@ -14,6 +14,8 @@ I'm comfortable working with a variety of technologies and tools. Here are some 
 - **Web Technologies:** [HTML,CSS,JavaScript,ReactJS]
 - **Databases:** [Oracle]
 
+  ![[Ankith Gowda B S Github Stats](https://github-readme-stats.vercel.app/api?username=Prajwal246800&theme=dark)]
+
 ## 🌍 Find Me Online
 - 📢 [Twitter](https://twitter.com/prajwalbs24680)
 - 📢 [Instagram](https://www.instagram.com/prajwal_246800/)
