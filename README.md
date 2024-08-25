@@ -5,14 +5,14 @@ Welcome to my GitHub profile! Here.
 
 ## 🧐 About Me
 - 💼 [Student At PES University E-City Bangalore]
-- 🌱 I'm currently learning [NodeJS,ReactJS,TailwindCSS]
+- 🌱 I'm currently learning [JAVA,DSA,Solving Blind 75]
 - 📫 How to reach me: [ankithgowda24680@gmail.com]
 
 ## 🔧 Technologies & Tools
 I'm comfortable working with a variety of technologies and tools. Here are some of the key ones:
 - **Programming Languages:** [C,C++,Python]
-- **Web Technologies:** [HTML,CSS,JavaScript,ReactJS]
-- **Databases:** [Oracle]
+- **Web Technologies:** [HTML,CSS,JavaScript,ReactJS,NodeJS,TailwindCSS]
+- **Databases:** [Oracle,MongoDB]
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prajwal246800&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,prs)
 
