@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here.
 
 ## 🧐 About Me
 - 💼 [Student At PES University E-City Bangalore]
-- 🌱 I'm currently learning [DSA, NextJS, Developing Portfolio with NextJS]
+- 🌱 I'm currently learning [DSA]
 - 📫 How to reach me: [ankithgowda24680@gmail.com]
 
 
