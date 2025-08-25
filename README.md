@@ -1,47 +1,107 @@
-# Hello, I'm [Ankith Gowda B S] 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF6EC7&center=true&vCenter=true&width=700&lines=Hello,+I'm+Ankith+Gowda+B+S;Full+Stack+Learner;AI+Explorer;Tech+Explorer" alt="Typing SVG" />
+</h1>
 
-Welcome to my GitHub profile! Here.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-ff69b4?style=for-the-badge" />
+</p>
 
-## 🧐 About Me
-- 💼 [Student At PES University E-City Bangalore]
-- 🌱 I'm currently learning [DSA]
-- 📫 How to reach me: [ankithgowda24680@gmail.com]
+---
 
+## 🧐 About Me  
+- 🎓 **Student** at PES University, E-City Bangalore  
+- 🌱 Currently learning **Data Structures & Algorithms (DSA)**  
+- 📫 Reach me at: **ankithgowda24680@gmail.com**  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prajwal_246800) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankith-gowda-b-s-5b4bb52a8/) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Prajwalbs24680) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankithgowda24680@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
-<!--![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) -->
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://instagram.com/prajwal_246800"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/ankith-gowda-b-s-5b4bb52a8/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://x.com/Prajwalbs24680"><img src="https://img.shields.io/badge/Twitter-%23000000.svg?logo=X&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:ankithgowda24680@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Prajwal246800&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Prajwal246800&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal246800&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 💻 Core Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,nodejs,react,nextjs,mongodb,html,css,tailwind,express,git,github,vercel,netlify" />
+</p>
 
+---
 
-[![](https://visitcount.itsvg.in/api?id=Prajwal246800&icon=0&color=0)](https://visitcount.itsvg.in)
+<details>
+<summary><b>🔍 Click to See Complete Tech Stack</b></summary>
+<br>
 
-Thanks for visiting my GitHub profile! 😊
+### ✅ **Good**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,nodejs,react,nextjs,mongodb,postgresql,html,css,tailwind,express,git,github,vercel,netlify" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?logo=google&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-FF6EC7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
+### ⚡ **Moderate**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,php,mysql,firebase" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JSON%20Prompting-FF6EC7?style=for-the-badge" />
+</p>
+
+---
+
+### 🌱 **Basic**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,docker" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=for-the-badge" />
+</p>
+
+</details>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prajwal246800&theme=radical&show_icons=true&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwal246800&theme=radical&hide_border=true" height="180" />
+</p>
+
+---
+
+## 🔝 Top Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal246800&theme=radical&layout=compact&hide_border=true" height="160" />
+</p>
+
+---
+
+## 🔥 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prajwal246800&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## ✍️ Quote of the Day  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+  🚀 Thanks for visiting my profile!  
+</p>
