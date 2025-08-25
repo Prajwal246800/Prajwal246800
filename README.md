@@ -27,7 +27,7 @@
 
 ## 💻 Core Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,nodejs,react,nextjs,mongodb,html,css,tailwind,express,git,github,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,nodejs,react,nextjs,mongodb,tailwind,git,github,vercel,netlify" />
 </p>
 
 ---
