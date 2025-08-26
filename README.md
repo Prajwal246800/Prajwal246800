@@ -11,7 +11,8 @@
 ## 🧐 About Me  
 - 🎓 **Student** at PES University, E-City Bangalore  
 - 🌱 Currently learning **Data Structures & Algorithms (DSA)**  
-- 📫 Reach me at: **ankithgowda24680@gmail.com**  
+- 📫 Reach me at: **ankithgowda24680@gmail.com**
+- 👨‍💻 Here is My Recent Major Project, Go give it a try: <a href="https://jobjourneybyankith.netlify.app/">Job Journey</a>
 
 ---
 
